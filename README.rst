@@ -1,3 +1,7 @@
+2015-03-18 SCL
+created an Android Studio project with to compile the CSV demo the API merged in.
+The debug unsigned APK is included for those who can't compile it themselves
+
 
 =============================
 Open Zeo - Android Mobile API
